@@ -8,7 +8,6 @@ public class App {
         int num; // This declares a variable called num.
         num = 100; // This assigns num the value 100.
 
-
         System.out.println("This is num: " + num);
 
         num = num * 2;
